@@ -5,4 +5,3 @@ I'm currently a software developer at [Parabeac](https://www.parabeac.com/) and 
 
 - 🏗️Currently working on [*Parabeac Core*](https://github.com/Parabeac/Parabeac-Core), a tool that converts design files like Sketch to Flutter code! 
 - 🤓Currently finishing my MS in Software Engineering with Concentration in Secure Cyber-Systems. 
-- 💬Ask me about *Flutter* or *Blockchain*! 
